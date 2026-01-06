@@ -1,5 +1,5 @@
 #
-# 524-individual-assignment-1 documentation build configuration file
+# individual-assignment1 documentation build configuration file
 #
 import os
 import sys
@@ -14,7 +14,7 @@ current_year = datetime.now().year
 
 # -- General project information -----------------------------
 # General information about the project.
-project = "524-individual-assignment-1"
+project = "individual-assignment1"
 copyright = "Copyright © 2026 Jackson Lu"
 html_show_sphinx = False
 
@@ -22,7 +22,7 @@ html_show_sphinx = False
 # |version| and |release|, also used in various other places throughout the
 # built documents.
 try:
-    version = importlib.metadata.version("524_individual_assignment_1")
+    version = importlib.metadata.version("individual_assignment1")
 except importlib.metadata.PackageNotFoundError:
     version = "0.0.0"
 
@@ -133,7 +133,7 @@ html_theme = "pydata_sphinx_theme"
 # html_file_suffix = ''
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = "524-individual-assignment-1_doc"
+htmlhelp_basename = "individual-assignment1_doc"
 
 
 intersphinx_mapping = {

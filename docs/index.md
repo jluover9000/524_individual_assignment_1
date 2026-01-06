@@ -1,4 +1,4 @@
-# Welcome to 524-individual-assignment-1's Documentation '
+# Welcome to individual-assignment1's Documentation '
 
 ## Overview
 

@@ -7,7 +7,7 @@ is up to you. This test example provides a single test for the example.py
 module.
 """
 
-from 524_individual_assignment_1.example import add_numbers
+from individual_assignment1.example import add_numbers
 
 def test_add_numbers():
     """
