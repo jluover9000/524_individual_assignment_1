@@ -1,4 +1,4 @@
-# Welcome to individual-assignment1's Documentation '
+# Welcome to pyospackage-jlu9702's Documentation '
 
 ## Overview
 

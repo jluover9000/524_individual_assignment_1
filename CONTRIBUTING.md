@@ -15,7 +15,7 @@ You can contribute in many ways, for example:
 
 ### Report Bugs
 
-Report bugs at https://github.com/jluover9000/individual_assignment1/issues.
+Report bugs at https://github.com/jluover9000/pyospackage_jlu9702/issues.
 
 **If you are reporting a bug, please follow the template guidelines. The more
 detailed your report, the easier and thus faster we can help you.**
@@ -39,30 +39,30 @@ happy for any support that they can get.
 
 ### Write Documentation
 
-individual-assignment1 could always use more documentation, whether as
+pyospackage-jlu9702 could always use more documentation, whether as
 part of the official documentation, in docstrings, or even on the web in blog
 posts, articles, and such. Just
-[open an issue](https://github.com/jluover9000/individual_assignment1/issues)
+[open an issue](https://github.com/jluover9000/pyospackage_jlu9702/issues)
 to let us know what you will be working on so that we can provide you with guidance.
 
 ### Submit Feedback
 
 The best way to send feedback is to file an issue at
-https://github.com/jluover9000/individual_assignment1/issues. If your feedback fits the format of one of
+https://github.com/jluover9000/pyospackage_jlu9702/issues. If your feedback fits the format of one of
 the issue templates, please use that. Remember that this is a volunteer-driven
 project and everybody has limited time.
 
 ## Get Started!
 
-Ready to contribute? Here's how to set up individual-assignment1 for
+Ready to contribute? Here's how to set up pyospackage-jlu9702 for
 local development.
 
-1. Fork the https://github.com/jluover9000/individual_assignment1
+1. Fork the https://github.com/jluover9000/pyospackage_jlu9702
    repository on GitHub.
 2. Clone your fork locally (*if you want to work locally*)
 
     ```shell
-    git clone git@github.com:your_name_here/individual_assignment1.git
+    git clone git@github.com:your_name_here/pyospackage_jlu9702.git
     ```
 
 3. [Install hatch](https://hatch.pypa.io/latest/install/).

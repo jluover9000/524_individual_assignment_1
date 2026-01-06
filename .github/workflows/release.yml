@@ -60,7 +60,7 @@ jobs:
     environment:
       name: pypi
       # Modify the url to be the name of your package
-      url: https://pypi.org/p/individual_assignment1
+      url: https://pypi.org/p/pyospackage_jlu9702
     permissions:
       id-token: write  # this permission is mandatory for PyPI publishing
     steps:

@@ -48,7 +48,7 @@ body:
     attributes:
       label: Environment
       description: >
-        Please paste the output of running `depinfo --markdown individual_assignment1`
+        Please paste the output of running `depinfo --markdown pyospackage_jlu9702`
         in your environment between the `details` tags below.
       value: |
         <details>
