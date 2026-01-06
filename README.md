@@ -15,7 +15,8 @@ individual-assignment1 is a project that (describe what it does here).
 You can install this package into your preferred Python environment using pip:
 
 ```bash
-$ pip install individual-assignment1
+$ cd 524_individual_assignment_1
+$ python -m pip install -e. 
 ```
 
 TODO: Add a brief example of how to use the package to this section
@@ -23,8 +24,8 @@ TODO: Add a brief example of how to use the package to this section
 To use individual-assignment1 in your code:
 
 ```python
->>> import individual-assignment1
->>> individual-assignment1.hello_world()
+>>> from individual_assignment1 import add_numbers
+>>> add_numbers(1, 2)
 ```
 
 ## Copyright
